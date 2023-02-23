@@ -4,6 +4,8 @@ attrs==22.1.0
 backcall==0.2.0
 decorator==5.1.1
 Django==4.0.7
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
 executing==1.2.0
 iniconfig==1.1.1
 ipdb==0.13.9
@@ -16,6 +18,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 pluggy==1.0.0
 prompt-toolkit==3.0.36
+psycopg2-binary==2.9.5
 ptyprocess==0.7.0
 pure-eval==0.2.2
 Pygments==2.13.0
@@ -23,6 +26,7 @@ PyJWT==2.6.0
 pytest==7.2.0
 pytest-django==4.5.2
 pytest-testdox==3.0.1
+python-dotenv==0.21.1
 pytz==2022.6
 six==1.16.0
 sqlparse==0.4.3
